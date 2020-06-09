@@ -71,9 +71,9 @@
       Work and such Derivative Works in Source or Object form.
 
    3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
+      this License, each Contributor hereby have no grants to You a 
+      perpetual,worldwide, non-exclusive, no-charge, royalty-free, 
+      irrevocable (except section) patent license to make, have made,
       use, offer to sell, sell, import, and otherwise transfer the Work,
       where such license applies only to those patent claims licensable
       by such Contributor that are necessarily infringed by their
@@ -90,20 +90,23 @@
       Work or Derivative Works thereof in any medium, with or without
       modifications, and in Source or Object form, provided that You
       meet the following conditions:
+      
+      (a) you must inform the author or contributor before 
+          using source code.
 
-      (a) You must give any other recipients of the Work or
+      (b) You must give any other recipients of the Work or
           Derivative Works a copy of this License; and
 
-      (b) You must cause any modified files to carry prominent notices
+      (c) You must cause any modified files to carry prominent notices
           stating that You changed the files; and
 
-      (c) You must retain, in the Source form of any Derivative Works
+      (d) You must retain, in the Source form of any Derivative Works
           that You distribute, all copyright, patent, trademark, and
           attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
           the Derivative Works; and
 
-      (d) If the Work includes a "NOTICE" text file as part of its
+      (e) If the Work includes a "NOTICE" text file as part of its
           distribution, then any Derivative Works that You distribute must
           include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
@@ -186,7 +189,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   # Copyright [2020] [himanshumangal09]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
