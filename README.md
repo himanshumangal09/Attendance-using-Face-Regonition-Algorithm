@@ -16,11 +16,11 @@ It require following libraries
 The system works as an intelligent system eliminating any manual errors, reducing the workload. Being fully automated, the system works more efficiently. The proposed system focused on eliminating the traditional record books, RFID based system, or biometric fingerprint system.[17] Many smart systems were created using different methods and were compared to the other methods available, hence we can conclude that haar like features worked best for the proposed system. This model is less time consuming, more precise, and
 efficient. I have  published a research paper with my other team members in **ICCRDA-2020** conference.
 
-![alt text](https://github.com/himanshumangal09/Attendance-using-Face-Regonition-Algorithm/pic1.png)
+![alt text](https://github.com/himanshumangal09/Attendance-using-Face-Regonition-Algorithm/blob/master/pic1.PNG)
 
-![alt text](https://github.com/himanshumangal09/Attendance-using-Face-Regonition-Algorithm/pic2.png)
+![alt text](https://github.com/himanshumangal09/Attendance-using-Face-Regonition-Algorithm/blob/master/pic2.PNG)
 
-![alt text](https://github.com/himanshumangal09/Attendance-using-Face-Regonition-Algorithm/pic3.png)
+![alt text](https://github.com/himanshumangal09/Attendance-using-Face-Regonition-Algorithm/blob/master/pic3.PNG)
 
 
 
